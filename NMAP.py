@@ -1,7 +1,7 @@
 import nmap
 
 #Identify target address
-target_address = "192.168.0.51"
+target_address = "45.33.32.156"
 
 #Start and stop port
 port_start = 75

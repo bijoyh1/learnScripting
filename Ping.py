@@ -1,4 +1,5 @@
 import platform
+import os
 
 ip = "128.0.0.1"
 current_os = platform.system().lower()
