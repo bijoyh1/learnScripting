@@ -1,0 +1,4 @@
+PING 128.0.0.254 (128.0.0.254): 56 data bytes
+
+--- 128.0.0.254 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
